@@ -1,2 +1,3 @@
-# react-laptop-store
+# Laptop store
+
 Mini application created using react framework
